@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Drona Temp</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="URL_Arraival">"http://testdronaapp.ammaammayi.in//api/services/app/daily_Operative_Flight/GetOperative"</string>
+    <string name="URL_Depature">"http://testdronaapp.ammaammayi.in//api/services/app/daily_Operative_Flight/GetOperative"</string>
+    <string name="json_data_Arraival">"{\n"
+                        "    \"input\": \"\"\n"
+                        "}"</string>
+    <string name="json_data_Depature">"{\n"
+                        "    \"input\": \"\"\n"
+                        "}"</string>
+    <string name="URL_Create_Location">"http://testdronaapp.ammaammayi.in/api/services/app/whLocation/CreateWhLocation"</string>
+    <string name="URL_Show_Location">"http://testdronaapp.ammaammayi.in/api/services/app/whLocation/getWhLocation"</string>
+
+    <!--<string name>="URL1">\"http://testdronaapp.ammaammayi.in//api/services/app/daily_Operative_Flight/GetOperative"\</string>-->
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="string_resource">img src=ellipse.png/</string>
+</resources>
